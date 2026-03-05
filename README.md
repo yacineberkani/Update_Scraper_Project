@@ -27,7 +27,7 @@ Le projet est organisé en plusieurs fichiers Python :
 2. Clônez ce référentiel GitHub sur votre machine locale en utilisant la commande suivante :
    
     ```sh
-    git clone https://github.com/yacineberkani/Update_Scraper_Project.git
+    git clone https://github.com/User_name/Update_Scraper_Project.git
     ```
 
 3. Accédez au répertoire du projet :
